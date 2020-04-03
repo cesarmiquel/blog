@@ -14,7 +14,7 @@ Categories we have are: *Tech*, *Science*, *Art*. More to come.
 
 ## This is the title of the first article in tech
 
-## Links
+### Links 🔗
 
 We usually add a list of links at the end with links related to this
 
