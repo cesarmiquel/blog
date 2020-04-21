@@ -25,3 +25,8 @@ We usually add a list of links at the end with links related to this
 These are some ideas that I have related to this topic
 
 - Idea number 1
+
+## ◻ Possible title with emoji
+## 🔴 Possible title with emoji
+## ◼ Possible title with emoji
+## ♻ Possible title with emoji
