@@ -1,1 +1,10 @@
 remote_theme: thelehhman/plainwhite-jekyll
+
+plainwhite:
+  name: César Miquel
+  tagline: Sr. Developer @Easytech
+  date_format: "%d/%m/%Y"
+
+  social_links:
+    twitter: cesarmiquel
+    github: cesarmiquel
